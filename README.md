@@ -7,4 +7,4 @@ List our project:
 |#|Source|Live site|Description|
 |-|-|-|-|
 |1|[CRM](https://github.com/f7deat/crm)|https://crm.defzone.net|Customer relationship management (CRM) is a process in which a business or other organization administers its interactions with customers, typically using data analysis to study large amounts of information|
-|2|[Supreme](https://github.com/f7deat/supreme)|https://github.com/f7deat/supreme|Overall system|
+|2|[Supreme](https://github.com/f7deat/supreme)|https://supreme.defzone.net|Overall system|
